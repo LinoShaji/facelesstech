@@ -2,7 +2,7 @@
 - 👀 I’m interested in sofware development
 - 🌱 I’m currently learning the languages 
 - 💞️ I’m looking to collaborate on ...
-- 📫 reach me @thetech403@gmail.com
+- 📫 reach me linoshaji23@gmail.com
 
 <!---
 facelesstech/facelesstech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
